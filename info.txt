@@ -1,0 +1,4 @@
+npm install -g @sanity/cli
+https://sanity.io/javascriptmastery2022
+sanity init --coupon javascriptmastery2022
+npm create sanity@latest -- --coupon javascriptmastery2022
